@@ -1,1 +1,2 @@
-# module-2
+# Coursera website development course using HTML, CSS, JavaScript.
+
